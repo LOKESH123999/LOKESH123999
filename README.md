@@ -84,9 +84,7 @@ Hello Everyone Welcome To My Profile
 ## 📜 Achievements & Certifications
 
 <!-- Add your achievements and certifications here -->
-- [Certification Name] — [Issuer]
-- [Competition Name] — [Details]
-- Hackathons/Events — [Participation/Rank]
+- Startup chattisgarh top 10
 
 ---
 
