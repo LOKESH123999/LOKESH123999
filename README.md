@@ -1,24 +1,32 @@
-# Original README Content  
+# README
 
-### Skills  
-- Skill 1  
-- Skill 2  
+## About Me
 
-### Projects  
-- Project 1  
-- Project 2  
+Welcome to my GitHub profile! I am a passionate developer who loves exploring new technologies and coding. 
 
-### Achievements  
-- Achievement 1  
-- Achievement 2  
+## Skills
 
-### Contact Information  
-- Email: example@example.com  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com)  
+- JavaScript
+- Python
+- Java
+- C++
 
-### 🎯 Interests  
-- Generative AI (Gen AI)  
-- Natural Language Processing (NLP)  
+## Projects
 
----  
-**Last updated on 2026-03-19 21:41:35 UTC**
+1. Project A - A cool project that does X.
+2. Project B - A cool project that does Y.
+
+## Achievements
+
+- Completed the XYZ course.
+- Contributed to various open-source projects.
+
+## Connect with Me
+
+Feel free to reach out to me on LinkedIn or Twitter.
+
+## Interests
+
+- Technology
+- AI
+- Gen AI and NLP
