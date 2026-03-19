@@ -1,32 +1,24 @@
 # README
 
+![Badges](https://link-to-your-badge)
+
 ## About Me
-
-Welcome to my GitHub profile! I am a passionate developer who loves exploring new technologies and coding. 
-
-## Skills
-
-- JavaScript
-- Python
-- Java
-- C++
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## Projects
-
-1. Project A - A cool project that does X.
-2. Project B - A cool project that does Y.
+- AI-Career-Assistant
+- Resume-JD-Matcher
 
 ## Achievements
+Top 14 in StartUp Chhattisgarh
 
-- Completed the XYZ course.
-- Contributed to various open-source projects.
-
-## Connect with Me
-
-Feel free to reach out to me on LinkedIn or Twitter.
+## Skills
+- Skill 1
+- Skill 2
 
 ## Interests
+Technology, AI, Gen AI and NLP
 
-- Technology
-- AI
-- Gen AI and NLP
+## Connect with Me
+- [Twitter](https://twitter.com/your-profile)
+- [LinkedIn](https://linkedin.com/in/your-profile)
